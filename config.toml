@@ -1,0 +1,4 @@
+baseURL = 'http://will-lim.dev/'
+languageCode = 'en-us'
+title = 'William Lim'
+theme = "blank"
