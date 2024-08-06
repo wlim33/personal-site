@@ -1,2 +1,3 @@
 [submodule "themes/blank"]
     path = themes/blank
+	url = "git@github.com:wlim33/blank.git"
